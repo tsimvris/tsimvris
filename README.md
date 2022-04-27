@@ -7,7 +7,7 @@ Frontend Developer
 * 🌍  I'm based in Leipzig
 * 🖥️  See my portfolio at [My Page](http://tsimvris.com)
 * ✉️  You can contact me at [tsimvris@gmail.com](mailto:tsimvris@gmail.com)
-* 🚀  I'm currently working on [ToDO](http://#)
+* 🚀  I'm currently working on [A Tax Calculator](http://#)
 * 🧠  I'm learning Vue.JS
 * 🤝  I'm open to collaborating on interesting Projects
 
