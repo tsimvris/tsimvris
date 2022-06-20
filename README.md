@@ -37,7 +37,3 @@ Frontend Developer
 <a href="http://www.github.com/tsimvris"><img src="https://activity-graph.herokuapp.com/graph?username=tsimvris&bg_color=1c1917&color=facc15&line=ef4444&point=facc15&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/tsimvris" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsimvris&langs_count=10&title_color=ef4444&text_color=facc15&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/tsimvris"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
